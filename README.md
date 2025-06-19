@@ -25,7 +25,7 @@
 
 #### 🌐 Frontend et UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,materialui,figma" />
 </p>
 
 #### ⚙️ Backend et API
