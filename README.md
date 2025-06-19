@@ -45,7 +45,7 @@
 
 #### 🐳 DevOps, build et CI/CD
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,webpack,npm,yarn,vite,git,github,gitlab&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,webpack,npm,yarn,maven,vite,git,github,gitlab&theme=light" />
 </p>
 
 #### 🧪 Tests et qualité
