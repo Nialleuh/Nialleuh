@@ -16,11 +16,11 @@
 
 ---
 
-### ⚙️ Technologies & outils
+### ⚙️ Technologies & outils vues
 
 #### 🧑‍💻 Développement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,perl,csharp,html,css,scala" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,perl,cs,html,css,scala" />
 </p>
 
 #### 🌐 Frontend & UI
@@ -50,7 +50,7 @@
 
 #### 💻 Environnements & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,debian,windows,kalilinux,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,debian,windows,kali,powershell" />
 </p>
 
 #### 🌐 Divers
