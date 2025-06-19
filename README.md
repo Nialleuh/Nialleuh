@@ -9,10 +9,10 @@
 
 ### 🧠 À propos de moi
 
-- 🔭 Je bosse sur **Among Legends**, un jeu multijoueur en React/Express inspiré du loup-garou
-- 🤖 J'ai conçu un **assistant intelligent NLP** avec génération SQL & fonctions
+- 🔭 Je bosse sur un site de jeu multijoueur en ligne fait en React/Express
+- 🤖 J'ai conçu un **assistant intelligent NLP** avec génération SQL & fonctions via un simple prompt utilisateur
 - 🛠️ J'aime tout ce qui touche à l’IA, le DevOps, les APIs bien propres, et les projets funs à coder
-- 💬 Ask me about **LangChain, Prisma, React, Express, Whisper, Docker**, et même un peu de PHP, Angular ou Figma 😉
+- 💬 J’ai touché à plein de technos : du React au Docker, en passant par Prisma, Whisper, PHP, Angular ou même Figma.
 
 ---
 
@@ -59,15 +59,3 @@
 </p>
 
 ---
-
-### 🌐 Me suivre
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://ton-site.com)  
-[![Mail](https://img.shields.io/badge/-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tonmail@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+code+universe!;Always+shipping+cool+stuff...;Sometimes+breaking+prod+😅" />
-</p>
