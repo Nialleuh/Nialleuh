@@ -35,7 +35,7 @@
 
 #### 🧠 Intelligence Artificielle et Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,selenium" />
+  <img src="https://skillicons.dev/icons?i=pytorch,selenium,tensorflow" />
 </p>
 
 #### 🛢️ Bases de données
