@@ -20,17 +20,17 @@
 
 #### 🧑‍💻 Développement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,perl,cs,html,css,scala" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,perl,cs,scala,bash" />
 </p>
 
 #### 🌐 Frontend et UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,sass,materialui,figma" />
 </p>
 
 #### ⚙️ Backend et API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,symfony,django,graphql,prisma,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,symfony,django,fastapi,flask,graphql,prisma,redis" />
 </p>
 
 #### 🧠 Intelligence Artificielle et Automation
@@ -40,22 +40,22 @@
 
 #### 🛢️ Bases de données
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 </p>
 
 #### 🐳 DevOps et conteneurs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,webpack,npm" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,nginx,postman,webpack,npm" />
 </p>
 
 #### 💻 Environnements et IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,debian,windows,kali,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,debian,windows,linux,kali,powershell,eclipse" />
 </p>
 
 #### 🌐 Divers
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=stackoverflow,discord,gmail" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow,discord,gmail,codepen,ps" />
 </p>
 
 ---
