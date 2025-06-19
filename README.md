@@ -1,8 +1,8 @@
-<h1 align="center">Salut 👋, moi c'est Niall</h1>
-<h3 align="center">Développeur full stack & architecte de projets IA</h3>
+<h1 align="center">Salut, moi c'est Niall 👋</h1>
+<h3 align="center">Développeur full stack et architecte de projets IA</h3>
 
 <p align="center">
-  🎓 Mastère en Applications Intelligentes & Big Data · Passionné par le NLP, le backend, et le game dev 🎮
+  🎓 Master en Applications Intelligentes & Big Data · Passionné par le NLP, le backend, et le game dev 🎮
 </p>
 
 ---
@@ -16,24 +16,24 @@
 
 ---
 
-### ⚙️ Technologies & outils vues
+### ⚙️ Technologies et outils vues
 
 #### 🧑‍💻 Développement
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,perl,cs,html,css,scala" />
 </p>
 
-#### 🌐 Frontend & UI
+#### 🌐 Frontend et UI
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,angular,materialui,figma" />
 </p>
 
-#### ⚙️ Backend & API
+#### ⚙️ Backend et API
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,symfony,django,graphql,prisma,redis" />
 </p>
 
-#### 🧠 Intelligence Artificielle & Automation
+#### 🧠 Intelligence Artificielle et Automation
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,selenium" />
 </p>
@@ -43,12 +43,12 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
-#### 🐳 DevOps & Conteneurs
+#### 🐳 DevOps et conteneurs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,webpack,npm" />
 </p>
 
-#### 💻 Environnements & IDEs
+#### 💻 Environnements et IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,debian,windows,kali,powershell" />
 </p>
