@@ -58,9 +58,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,eclipse,debian,windows,linux,kali,powershell&theme=light" />
 </p>
 
-#### 🌐 Divers
+<!-- #### 🌐 Divers
 <p align="left">
   <img src="https://skillicons.dev/icons?i=stackoverflow,discord,gmail,codepen,ps&theme=light" />
-</p>
+</p> -->
 
 ---
