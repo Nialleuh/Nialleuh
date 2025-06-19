@@ -20,7 +20,7 @@
 
 #### 🧑‍💻 Développement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,perl,cs,scala,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,electron,php,perl,cs,scala,bash" />
 </p>
 
 #### 🌐 Frontend et UI
