@@ -20,47 +20,47 @@
 
 #### 🧑‍💻 Développement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,electron,php,perl,cs,scala,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,electron,php,perl,cs,scala,bash&theme=light" />
 </p>
 
 #### 🌐 Frontend et UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,sass,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,sass,materialui,figma&theme=light" />
 </p>
 
 #### ⚙️ Backend et API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,symfony,django,fastapi,flask,graphql,prisma,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,symfony,django,fastapi,flask,graphql,prisma,redis&theme=light" />
 </p>
 
 #### 🧠 Intelligence artificielle et automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,selenium,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,selenium,tensorflow&theme=light" />
 </p>
 
 #### 🛢️ Bases de données
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=light" />
 </p>
 
 #### 🐳 DevOps, build et CI/CD
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,webpack,npm,yarn,vite,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,webpack,npm,yarn,vite,git,github,gitlab&theme=light" />
 </p>
 
 #### 🧪 Tests et qualité
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,jest,junit" />
+  <img src="https://skillicons.dev/icons?i=postman,jest&theme=light" />
 </p>
 
 #### 💻 Environnements et IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,eclipse,debian,windows,linux,kali,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,eclipse,debian,windows,linux,kali,powershell&theme=light" />
 </p>
 
 #### 🌐 Divers
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=stackoverflow,discord,gmail,codepen,ps" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow,discord,gmail,codepen,ps&theme=light" />
 </p>
 
 ---
