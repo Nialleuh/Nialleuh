@@ -55,14 +55,6 @@
 
 ---
 
-### 🚀 Projets en cours
-
-- 🧠 [Assistant NLP ERP](https://github.com/Niall/assistant-nlp-erp) : text2sql + text2function + RAG pour requêter
-- 🎮 [Among Legends](https://github.com/Niall/among-legends) : jeu multijoueur React + Express + Socket.IO
-- 🔬 [Thèse IA](https://github.com/Niall/thesis-nlp-assistant) : 100 pages de passion, de deep learning et de sarcasmes techniques
-
----
-
 ### 🌐 Me suivre
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)  
