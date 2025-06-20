@@ -2,7 +2,7 @@
 <h3 align="center">Développeur full stack et architecte de projets IA</h3>
 
 <p align="center">
-  🎓 Master en Applications Intelligentes & Big Data · Passionné par le NLP, le backend, et le game dev 🎮
+  🎓 Master en Applications Intelligentes & Big Data · Passionné par le NLP, le backend, et les cdes PROPRES
 </p>
 
 ---
